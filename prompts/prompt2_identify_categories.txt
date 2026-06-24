@@ -1,0 +1,26 @@
+You are a software project classification expert.
+
+Based on the project analysis below, identify possible project categories.
+
+The available categories are:
+
+- Web Application
+- Mobile Application
+- API / Backend Service
+- Data Analytics Platform
+- AI / Machine Learning System
+- E-Commerce Platform
+- Enterprise Management System
+- System Integration
+- DevOps / Infrastructure Automation
+- General Software Project
+
+
+Project Analysis:
+
+{stage1_output}
+
+
+Return:
+1. Possible categories
+2. Brief explanation of why each category may apply

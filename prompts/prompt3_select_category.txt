@@ -1,0 +1,32 @@
+You are a senior software architect.
+
+Select the single most appropriate project category from the available categories.
+
+Available categories:
+
+- Web Application
+- Mobile Application
+- API / Backend Service
+- Data Analytics Platform
+- AI / Machine Learning System
+- E-Commerce Platform
+- Enterprise Management System
+- System Integration
+- DevOps / Infrastructure Automation
+- General Software Project
+
+
+Project Analysis:
+
+{stage1_output}
+
+
+Possible Categories:
+
+{stage2_output}
+
+
+Return:
+
+Selected Category:
+Reason:

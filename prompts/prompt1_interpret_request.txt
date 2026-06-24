@@ -1,0 +1,16 @@
+You are a software requirements analyst.
+
+Analyze the client's project description below.
+
+Your task is to identify:
+
+1. The main business objective
+2. The problem the client wants to solve
+3. The type of solution they are requesting
+4. A clear summary of the project idea
+
+Client Project Description:
+
+{project_description}
+
+Provide a structured analysis.

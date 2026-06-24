@@ -1,0 +1,28 @@
+You are a business analyst preparing a software project for implementation.
+
+Review the client's project request and identify missing information needed before development can begin.
+
+Consider:
+
+- Target users
+- Platform (Web, Mobile, Desktop, API)
+- Authentication requirements
+- Integration requirements
+- Data storage requirements
+- Security requirements
+- Performance requirements
+- Scalability requirements
+- Other important details
+
+
+Client Request:
+
+{project_description}
+
+
+Selected Category:
+
+{stage3_output}
+
+
+List the missing requirements clearly.
